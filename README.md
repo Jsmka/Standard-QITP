@@ -1,5 +1,5 @@
 # Standard-QITP :smile:
 
-Hi there !!!
+Hi there !!! :wave:
 
-This is a quantum computing project in which I used quantum principles such as superposition and entanglement to develop the Quantum Image Teleportation Protocol, which can teleport the quantum state of an image file with high security from sender to receiver who are separated from each other at any distance.
+This is a **Quantum Computing** project in which I used quantum principles such as **_Superposition_** and **_Entanglement_** to develop the **Quantum Image Teleportation Protocol** :star_struck:, which can teleport the quantum state of an image file with high security from sender to receiver who are separated from each other at any distance.
